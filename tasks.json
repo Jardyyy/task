@@ -1,0 +1,48 @@
+{
+    "tasks":[
+        {
+            "id": 1,
+            "task name": "clean",
+            "descriptions": "the whole house",
+            "status": "done!",
+            "recurring tasks": "weekly"
+        },
+        {
+            "id": 2,
+            "task name": "cook",
+            "descriptions": "breakfast,lunch,dinner",
+            "status": "almost done!",
+            "recurring tasks": "daily"
+        },
+        {
+            "id": 3,
+            "task name": "talk a walk",
+            "descriptions": "1km - 5km",
+            "status": "not done!",
+            "recurring tasks": "weekly"
+        }
+    ],
+
+    "user":[
+        {
+            "id": 1,
+            "name": "Jard",
+             "lastname": "Mendoza",
+             "email": "jard1@gmail.com"
+        },
+    
+        {
+            "id": 2,
+            "name": "Jard",
+             "lastname": "Mendoza",
+             "email": "jard12@gmail.com"
+        },
+   
+        {
+            "id": 3,
+            "name": "Jard",
+            "lastname": "Mendoza",
+             "email": "jard123@gmail.com"
+        }
+    ]
+}
