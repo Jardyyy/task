@@ -17,9 +17,9 @@
         {
             "id": 3,
             "task name": "House works",
-            "descriptions": "Wash the dishes and Clean the bedroom",
+            "descriptions": "Clean the sheets and ibalad sa init ang pillows",
             "status": "pending",
-            "recurring tasks": ""
+            "recurring tasks": "monthly"
         }
     ],
 
