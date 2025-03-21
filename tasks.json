@@ -2,17 +2,17 @@
     "tasks":[
         {
             "id": 1,
-            "task name": "clean",
-            "descriptions": "the whole house",
-            "status": "done!",
-            "recurring tasks": "weekly"
+            "task name": "",
+            "descriptions": "",
+            "status": "",
+            "recurring tasks": ""
         },
         {
             "id": 2,
-            "task name": "cook",
-            "descriptions": "breakfast,lunch,dinner",
-            "status": "almost done!",
-            "recurring tasks": "daily"
+            "task name": "",
+            "descriptions": "",
+            "status": "",
+            "recurring tasks": ""
         },
         {
             "id": 3,
@@ -26,23 +26,23 @@
     "user":[
         {
             "id": 1,
-            "name": "Jard",
-             "lastname": "Mendoza",
-             "email": "jard1@gmail.com"
+            "name": "",
+             "lastname": "",
+             "email": ""
         },
     
         {
             "id": 2,
-            "name": "Jard",
-             "lastname": "Mendoza",
-             "email": "jard12@gmail.com"
+            "name": "",
+             "lastname": "",
+             "email": ""
         },
    
         {
             "id": 3,
-            "name": "Jard",
-            "lastname": "Mendoza",
-             "email": "jard123@gmail.com"
+            "name": "",
+            "lastname": "",
+             "email": ""
         }
     ]
 }
