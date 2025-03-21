@@ -2,23 +2,23 @@
     "tasks":[
         {
             "id": 1,
-            "task name": "",
-            "descriptions": "",
-            "status": "",
-            "recurring tasks": ""
+            "task name": "Finish flutter project",
+            "descriptions": "Complete the task manager app with API integration.",
+            "status": "In progreess",
+            "recurring tasks": "none"
         },
         {
             "id": 2,
-            "task name": "",
-            "descriptions": "",
-            "status": "",
-            "recurring tasks": ""
+            "task name": "Gym monday",
+            "descriptions": "push exercises",
+            "status": "completed",
+            "recurring tasks": "weekly"
         },
         {
             "id": 3,
-            "task name": "",
-            "descriptions": "",
-            "status": "",
+            "task name": "House works",
+            "descriptions": "Wash the dishes and Clean the bedroom",
+            "status": "pending",
             "recurring tasks": ""
         }
     ],
@@ -26,23 +26,23 @@
     "user":[
         {
             "id": 1,
-            "name": "",
-             "lastname": "",
-             "email": ""
+            "name": "Jared",
+             "lastname": "Mendoza",
+             "email": "mjared779@gmail.com"
         },
     
         {
             "id": 2,
-            "name": "",
-             "lastname": "",
-             "email": ""
+            "name": "Nisaaay",
+             "lastname": "Tapia",
+             "email": "KristelleTapia21@gmail.com"
         },
    
         {
             "id": 3,
-            "name": "",
-            "lastname": "",
-             "email": ""
+            "name": "NotJardo",
+            "lastname": "Mendo",
+             "email": "Jardyy66@gmail.com"
         }
     ]
 }
